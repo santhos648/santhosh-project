@@ -342,7 +342,7 @@ def game():
                                                                     888E                                      
                                                                     888P                                      
                                                                   .J88" "                                     
-                                                                                                        by Dark Phoenix
+                                                                                                        by santhosh kumar
                ''')
     num_decks = 6
     player_chips = 1_000
